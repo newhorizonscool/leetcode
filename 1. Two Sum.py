@@ -7,3 +7,5 @@ class Solution:
                     index.append(i)
                     index.append(j)
                     return index
+
+
